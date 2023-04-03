@@ -2,10 +2,10 @@
 #Clases de Alura Inmersión de datos
 Enlaces relacionados a la clase
 https://pandas.pydata.org/
-br
+<br>
 https://www.aluracursos.com/blog/media-o-mediana-entienda-cada-una
-br
+<br>
 https://www.aluracursos.com/blog/google-colab-que-es-y-como-usarlo
-br
+<br>
 https://www.aluracursos.com/blog/que-hace-un-cientista-de-datos
-br
+<br>
